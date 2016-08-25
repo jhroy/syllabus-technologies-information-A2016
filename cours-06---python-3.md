@@ -11,7 +11,7 @@ Ce qu'on appelle en anglais du *scraping* peut être traduit en français par du
 
 ![](http://connectors.poc.interworks.com/importio/importio-logo.png)
 
-Mais on va s'y mettre à l'aide de la bibliothèque Python [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/).
+Mais on va s'y mettre surtout à l'aide de la bibliothèque Python [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/).
 
 -----
 
