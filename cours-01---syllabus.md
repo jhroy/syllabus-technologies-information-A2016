@@ -6,7 +6,7 @@
 
 J'y décrirai le syllabus, mais je compte également sur vous pour me dire quelles sont vos attentes.
 
-J'ai déjà donné des éléments de journalisme informatique dans un cours appelé **Initiation au technologies numériques** \([EDM5050](https://edm5050.wordpress.com/)\), qui ne fait plus partie du programme de journalisme. J'ai souvenir que certains étudiants avaient beaucoup de difficulté à suivre...
+J'ai déjà donné des éléments de journalisme informatique dans un cours appelé **Initiation au technologies numériques \([EDM5050](https://edm5050.wordpress.com/)\)**, qui ne fait plus partie du programme de journalisme. J'ai souvenir que certains étudiants avaient beaucoup de difficulté à suivre...
 
 Reste que les deux tiers du contenu ce cours sont donnés pour la première fois cette session-ci. Je vais pousser les apprentissages assez loin. Qui plus est, on va commencer par ce qu'il y a de plus difficile.
 
