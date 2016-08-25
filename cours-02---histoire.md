@@ -6,7 +6,7 @@
 
 Même si le journalisme informatique est une pratique récente, il s'inscrit dans une longue histoire de ce qu'on peut appeler le «&nbsp;journalisme quantitatif&nbsp;».
 
-On verra notamment que cette pratique remonte au XIXe siècle, comme le montre ce graphique des pertes de l'armée de Napoléon au cours de la campagne de Russie, réalisé en 1869.
+On verra notamment que cette pratique remonte au XIX<sup>e</sup> siècle, comme le montre ce graphique des pertes de l'armée de Napoléon au cours de la campagne de Russie, réalisé en 1869.
 
 [![](https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png)](https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png)
 
