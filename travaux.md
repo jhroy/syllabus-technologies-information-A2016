@@ -56,6 +56,9 @@ Ce texte devra être accompagné de:
 
 Vous m'envoyez tout cela par courriel avant le début du dernier cours (14h00, le 14 décembre 2016).
 
+-----
+## Ventilation des éléments d'évaluation
+
 | Élément | Points |
 |---|---|
 | Abonnement à Cloud9 | 5|
