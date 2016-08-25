@@ -19,7 +19,7 @@ On va y voir les commandes les plus utiles dans le métier que vous avez choisi,
 
 Comme ce n'est pas tout le monde qui a accès à un ordinateur MacOSX et à son application **Terminal** (illustrée ci-dessus), nous allons nous servir d'un outil en ligne très bien fait appelé [Cloud9](http://c9.io). Il nous permettra d'avoir tous le même environnement, ce qui sera utile tout au long de la session.
 
-[![](https://c9.io/blog/content/images/2015/06/logo.png)](http://c9.io)
+[![](/assets/c9.png)](http://c9.io)
 
 -----
 
