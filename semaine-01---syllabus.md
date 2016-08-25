@@ -16,7 +16,7 @@ J'ai confiance que vous pourrez y arriver. Dites-moi si le rythme est trop inten
 
 [![](/assets/pokecarte.png)](http://jhroy.ca/Pokemon_Rouge_Bleu_Celadon_City.mp3)
 
-Je vais tâcher adapter mon rythme au vôtre. Dites-moi, aussi, ce que vous êtes curieux d'apprendre et je vais tenter de vous aider. Mon objectif, c'est de vous fournir des outils qui, j'ose le croire, vous serviront durant toute votre vie professionnelle, même si vous choisissez de faire autre chose que du journalisme.
+Je vais tâcher d'adapter mon rythme au vôtre. Dites-moi, aussi, ce que vous êtes curieux d'apprendre et je vais tenter de vous aider. Mon objectif, c'est de vous fournir des outils qui, j'ose le croire, vous serviront durant toute votre vie professionnelle, même si vous choisissez de faire autre chose que du journalisme.
 
 ---
 
