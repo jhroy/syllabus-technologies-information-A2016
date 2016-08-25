@@ -3,7 +3,7 @@
 
 -----
 
-L'informatique est partout. Dans le creux de vos mains. Au bout de vos doigts. Du matin jusqu'au lendemain, vos vies dépendent d'interminables suites de `0` et de `1` enregistrées sur des supports numériques. Vos choix de cours, votre compte de banque, votre dossier médical, les contrats de votre municipalité, votre journal, votre Facebook ont tous le même point commun: ce sont des bases de données.
+:computer: L'informatique est partout. Dans le creux de vos mains. Au bout de vos doigts. Du matin jusqu'au lendemain, vos vies dépendent d'interminables suites de `0` et de `1` enregistrées sur des supports numériques. Vos choix de cours, votre compte de banque, votre dossier médical, les contrats de votre municipalité, votre journal, votre Facebook ont tous le même point commun: ce sont des bases de données.
 
 On dit qu'un bon journaliste doit être un *«&nbsp;news-getter&nbsp;»*. Eh bien aujourd'hui, l'information se trouve dans des bases de données et y puiser est de plus en plus considéré comme une compétence fondamentale du métier. Les *«&nbsp;news-getter&nbsp;»* de demain sont ceux qui seront capables d'aller chercher l'information numérique là où elle se trouve. 
 
