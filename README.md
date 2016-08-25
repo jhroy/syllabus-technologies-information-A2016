@@ -1,6 +1,6 @@
 # EDM5240
 ## Technologies de l'information appliquées au journalisme
-#### Ce syllabus est accessible en ligne à partir de l'URL [jhroy.gitbooks.io](jhroy.gitbooks.io)<br>Certains éléments de ce document, dans ses versions en ligne ou PDF, sont en anglais. Veuillez m'en excuser, je n'ai pas trouvé la façon de les franciser.
+#### Ce syllabus est accessible en ligne à partir de l'URL [jhroy.gitbooks.io/edm5240-a2016/](https://jhroy.gitbooks.io/edm5240-a2016/)<br>Certains éléments de ce document, dans ses versions en ligne ou PDF, sont en anglais. Veuillez m'en excuser, je n'ai pas trouvé la façon de les franciser.
 
 -----
 
