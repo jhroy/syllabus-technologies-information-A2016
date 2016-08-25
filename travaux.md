@@ -45,14 +45,14 @@ Votre travail final doit être accompagné d'un texte **(en format PDF)** d'entr
 
 - Pourquoi ce sujet?
 - Quelles technologies avez-vous utilisées?
-- Pourquoi les avoir choisi?
-- Comment elles vous ont servi?
-- Quels problèmes avez-vous éprouvé (s'il y a lieu)
+- Pourquoi les avoir choisies?
+- Comment vous ont-elles servi?
+- Quels problèmes avez-vous éprouvés (s'il y a lieu)
 
 Ce texte devra être accompagné de:
 
-- Tous les scripts **(fichiers .py ou .rb ou .js)** que vous avez écrits (s'il y a lieu)
-- Un fichier «&nbsp;dump&nbsp;» **(format .sql)** de toutes les bases de données que vous avez utilisées (s'il y a lieu)
+- Tous les scripts **(fichiers .py ou .rb ou .js)** que vous avez écrits et/ou
+- Un fichier «&nbsp;dump&nbsp;» **(format .sql)** de toutes les bases de données que vous avez utilisées
 
 Vous m'envoyez tout cela par courriel avant le début du dernier cours (14h00, le 14 décembre 2016).
 
