@@ -19,11 +19,13 @@ Mais **ATTENTION**, votre installation dépendra du type d'ordinateur que vous a
 Sous **WINDOWS**:
 
 - Installez MySQL en suivant les instructions se trouvant [ici](https://dev.mysql.com/doc/refman/5.7/en/windows-installation.html) (in English, sorry). Assurez-vous de cocher l'option vous permettant d'installer également un utilitaire appelé **_MySQL Workbench_**, reconnaissable par l'icône ci-dessous (si l'utilitaire ne s'installe pas automatiquement, vous pouvez aller le chercher à partir de [sa page de téléchargement](https://dev.mysql.com/downloads/workbench/)):
+
 ![](/assets/MySQLwb.png)
 
 Sous **MacOSX**:
 
 - Installez le *«&nbsp;Community Server&nbsp;»* de MySQL à partir de [sa page de téléchargement](https://dev.mysql.com/downloads/mysql/). Vous aurez également l'option d'utiliser MySQL Workbench. Mais je préfère, de loin, un autre utilitaire appelé **_Sequel Pro_** ([téléchargement](http://www.sequelpro.com/)). On le reconnaît par son icône ressemblant à une pile de crêpes avec du beurre fondu. Miam!
+
 ![](/assets/SequelPRO.png)
 
 Un courriel avec une ou des capture(s) d'écran me prouvant que vous avez installé ces logiciels vaut 5 points si vous me l'envoyez avant le 31 octobre! Re-miam!
