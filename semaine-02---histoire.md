@@ -10,7 +10,7 @@ On verra notamment que cette pratique remonte au XIX<sup>e</sup> siècle, comme 
 
 [![](https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png)](https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png)
 
-Dans ce premier cours, je vous montrerai aussi quelques exemples québécois, nord-américains et européens. Je vous demanderai de m'en montrer, également!
+Dans ce deuxième cours, je vous montrerai aussi quelques exemples québécois, nord-américains et européens. Je vous demanderai de m'en montrer, également!
 
 On verra enfin les différentes étapes du journalisme informatique, étapes qui structurent le contenu de ce cours.
 
