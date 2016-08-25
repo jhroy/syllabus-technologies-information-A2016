@@ -1,6 +1,6 @@
 # EDM5240
 ## Technologies de l'information appliquées au journalisme
-
+#### Ce syllabus est accessible en ligne à partir de l'URL [jhroy.gitbooks.io](jhroy.gitbooks.io)
 -----
 
 L'informatique est partout. Dans le creux de vos mains. Au bout de vos doigts. Du matin jusqu'au lendemain, vos vies dépendent d'interminables suites de `0` et de `1` enregistrées sur des supports numériques. Vos choix de cours, votre compte de banque, votre dossier médical, les contrats de votre municipalité, votre journal, votre Facebook ont tous le même point commun: ce sont des bases de données.
