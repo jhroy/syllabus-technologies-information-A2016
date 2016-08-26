@@ -5,9 +5,9 @@
 Deux activités durant la relâche.
 
 ###1
-D'abord, rédigez un script python qui fait du moissonnage de données directement sur un site web ou par le biais d'un API. Les détails sont décrits dans la section [Travaux](/travaux.md).
+D'abord, rédigez un script python qui fait du moissonnage de données directement sur un site web ou par le biais d'un API. Plus de détails dans la section [Travaux](/travaux.md).
 
-**Tombée**: Avant 23h59, le 31 octobre 2016. Pour me remettre votre script, créez sur votre compte Github un *«&nbsp;repo&nbsp;»* appelé **EDM5240**. Je vais automatiquement «&nbsp;forker&nbsp;» votre *«&nbsp;repo&nbsp;»* à 23h59 le 31 octobre. Ce qu'il contiendra sera votre travail.
+**Tombée**: Avant 23h59, le 31 octobre 2016. Pour me remettre votre script, créez sur votre compte Github un *«&nbsp;repo&nbsp;»* appelé **EDM5240**. Je vais automatiquement *«&nbsp;forker&nbsp;»* votre *«&nbsp;repo&nbsp;»* à 23h59 le 31 octobre. Ce qu'il contiendra sera votre travail.
 
 -----
 
