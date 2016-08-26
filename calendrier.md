@@ -14,7 +14,7 @@ Dans les prochaines pages, on verra comment le cours est structuré et comment l
 | [05](/cours-05---python-2.md)| 5 oct. | Python 2| |
 | [06](/cours-06---python-3.md)| 12 oct. | Python 3| |
 | [07](/cours-07---python-4.md)| 19 oct. | Python 4| |
-| [*08*](/semaine-08---relâche.md)| *26 oct.* | *Semaine de relâche*| Installation de SQL |
+| [*08*](/semaine-08---relâche.md)| *26 oct.* | *Semaine de relâche*| Abonnement à Github et<br>Installation de SQL |
 | [09](/semaine-09---sql-1.md)| 2 nov. | SQL 1 | |
 | [10](/semaine-10---sql-2.md)| 9 nov. | SQL 2| |
 | [11](/semaine-11---visualisation-1.md)| 16 nov. | Visualisation 1| |
