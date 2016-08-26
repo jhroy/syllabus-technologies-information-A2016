@@ -23,8 +23,7 @@ Vous devrez rédiger un script python qui moissonne des données d'un site de vo
 
 - Produire un fichier CSV
 
-Vous devez m'envoyer votre script **(fichier .py)** par courriel avant 23h59 le 31 octobre 2016.
-
+Vous devez déposer votre script **(fichier .py)** dans votre compte Github. Plus précisément, placez-le dans un *«&nbsp;repo&nbsp;»* que vous baptiserez **EDM5240**. **Tombée**&nbsp;: avant 23h59 le 31 octobre 2016.
 
 ##Projet final
 
