@@ -2,10 +2,13 @@
 
 -----
 
-Les travaux à remettre ont été mentionnés brièvement dans les pages précédentes. Je vous donne, ci-dessous, un peu plus de détails sur ces éléments d'évaluation.
+Les travaux à remettre ont été mentionnés brièvement dans les pages précédentes. Je vous donne, ci-dessous, un peu plus de détails sur chacun de ces éléments d'évaluation.
 
 ##Abonnement à Cloud9
 Il suffit de me prouver que vous avez votre compte en vous rendant sur la page suivante ([https://ide.c9.io/jeanhuguesroy/edm5240-test](https://ide.c9.io/jeanhuguesroy/edm5240-test)) et de me faire signe en cliquant sur les mots **«&nbsp;_Request Access_&nbsp;»**, en haut, à droite de la page. Faites-le avant 23h59, le 18 octobre 2016.
+
+##Abonnement à Github
+Ne tardez pas trop. «&nbsp;Forkez&nbsp;» mon «&nbsp;repo&nbsp;» **EDM5240** avant 23h59, le 23 octobre 2016.
 
 ##Installation de MySQL
 Envoyez-moi votre capture d'écran avant 23h59, le 30 octobre 2016.
@@ -61,8 +64,9 @@ Vous m'envoyez tout cela par courriel avant le début du dernier cours (14h00, l
 
 | Élément | Points |
 |---|---|
-| Abonnement à Cloud9 | 5|
-| Installation de MySQL | 5|
-| Script python| 25 |
-| Projet final| 40|
-| *Making-of*| 25|
+| Abonnement à Cloud9 | 5 |
+| Abonnement à Github | 5 |
+| Installation de MySQL | 5 |
+| Script python| 25 |
+| Projet final| 40 |
+| *Making-of*| 20 |
