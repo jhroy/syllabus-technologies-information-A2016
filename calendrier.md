@@ -21,7 +21,7 @@ Dans les prochaines pages, on verra comment le cours est structuré et comment l
 | [12](/semaine-12---visualisation-2.md)| 23 nov. | Visualisation 2| |
 | [13](/semaine-13---visualisation-3.md)| 30 nov. | Visualisation 3| |
 | [14](/semaine-14---tutorat.md)|7 déc. | Tutorat | |
-| [15](/semaine-15---présentations.md)| 14 déc. | Présentations | Travail final|
+| [15](/semaine-15---présentations.md)| 14 déc. | Présentations | Travail final +<br>*Making-of*|
 
 Le graphique ci-dessous montre tous les outils mentionnés par des journalistes informatiques québécois lors d'entrevues que j'ai réalisées en 2015. Il est impossible de les voir tous. On abordera cependant les plus importants.
 
