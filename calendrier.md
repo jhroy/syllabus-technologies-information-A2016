@@ -2,7 +2,7 @@
 
 -----
 
-Dans les prochaines pages, on verra comment le cours est structuré et comment la matière sera dispensée au fil des semaines. En voici un résumé dans un magnifique tableau:
+Dans les prochaines pages, on verra comment le cours est structuré et comment la matière sera dispensée au fil des semaines. En voici le résumé dans un magnifique tableau&nbsp;:
 
 
 | # | Date | Contenu | Travail à faire ou à remettre (s'il y a lieu) |
