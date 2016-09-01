@@ -16,5 +16,5 @@ On verra enfin les différentes étapes du journalisme informatique, étapes qui
 
 ---
 
-###### Retour au [calendrier](/calendrier.md)
+##### Retour au [calendrier](/calendrier.md)
 
