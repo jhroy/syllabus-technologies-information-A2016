@@ -9,8 +9,8 @@ Dans les prochaines pages, on verra comment le cours est structuré et comment l
 |---|---|---|---|
 | [01](/semaine-01---syllabus.md)| 7 sept. | Syllabus | |
 | [02](/semaine-02---histoire.md)| 14 sept. | Histoire du «&nbsp;journalisme quantitatif&nbsp;»| Abonnement à Cloud9 |
-| [03](/semaine-02---unix.md)| 21 sept. | Intro à UNIX | |
-| [04](/semaine-03---python-1.md)| 28 sept. | Python 1 | |
+| [03](/semaine-03---unix.md)| 21 sept. | Intro à UNIX | |
+| [04](/semaine-04---python-1.md)| 28 sept. | Python 1 | |
 | [05](/semaine-05---python-2.md)| 5 oct. | Python 2| |
 | [06](/semaine-06---python-3.md)| 12 oct. | Python 3| |
 | [07](/semaine-07---python-4.md)| 19 oct. | Python 4| |
