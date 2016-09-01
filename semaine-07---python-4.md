@@ -15,5 +15,5 @@ On va également apprendre les bases du système _**git**_. Je vais vous demande
 Il y a autre chose que j'attends de vous durant cette semaine-là. Voir la page suivante.
 
 -----
-
+#####Image: [Professortocat](https://octodex.github.com/Professortocat_v2), par [James Kang](https://github.com/jeejkang)
 #####Retour au [calendrier](/calendrier.md)
