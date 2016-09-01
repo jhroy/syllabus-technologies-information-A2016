@@ -1,6 +1,6 @@
 # EDM5240
 ## Technologies de l'information appliquées au journalisme - Session d'automne 2016
-#### Ce syllabus est accessible en ligne à partir de l'URL [jhroy.gitbooks.io/edm5240-a2016/](https://jhroy.gitbooks.io/edm5240-a2016/)<br>Certains éléments de ce document, dans ses versions en ligne ou PDF, sont en anglais. Veuillez m'en excuser, je n'ai pas trouvé la façon de les franciser.
+#### Ce syllabus est accessible en ligne à partir de l'URL [jhroy.gitbooks.io/edm5240-a2016/](https://jhroy.gitbooks.io/edm5240-a2016/)<br>Certains éléments de ce document, dans ses versions en ligne ou PDF, sont en anglais. Veuillez m'en excuser, je n'ai pas trouvé la façon de les franciser sur [le service dont je me suis servi pour le diffuser](https://www.gitbook.com).
 
 -----
 
