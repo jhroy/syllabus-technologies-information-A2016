@@ -23,6 +23,6 @@ Dans les prochaines pages, on verra comment le cours est structuré et comment l
 | [14](/semaine-14---tutorat.md)|7 déc. | Tutorat | |
 | [15](/semaine-15---présentations.md)| 14 déc. | Présentations | Travail final +<br>*Making-of*|
 
-Le graphique ci-dessous montre tous les outils mentionnés par des journalistes informatiques québécois lors d'entrevues que j'ai réalisées en 2015. Il est impossible de les voir tous. On abordera cependant les plus importants.
+Le graphique ci-dessous montre tous les outils mentionnés par des journalistes informatiques québécois lors d'entrevues que j'ai réalisées en 2015. Il est impossible de les voir tous. On abordera cependant les plus importants. En passant, si vous trouvez le clin d'oeil générationnel que j'ai caché dans la version en ligne de ce syllabus, tel un *«&nbsp;easter egg&nbsp;»*, [prévenez-moi par courriel](mailto:roy.jean-hugues@uqam.ca?subject=J'ai%20trouvé%votre%bidule) et hop! deux points boni seront ajoutés à votre total à la fin de l'année.
 
 [![](/assets/Outils.jpeg)](http://jhroy.ca/Outils_journalisme_informatique_EDM5240.jpeg)
