@@ -16,7 +16,7 @@ Les comportements suivants sont considérés par la Politique #16 de l'UQAM comm
 - Toute autre manifestation à caractère sexuel offensante ou non désirée.
 
 Pour plus d’information&nbsp;:
-#####[http://www.harcelement.uqam.ca/](http://www.harcelement.uqam.ca/)
+### [http://www.harcelement.uqam.ca/](http://www.harcelement.uqam.ca/)
 
 Pour rencontrer quelqu'un ou effectuer un signalement&nbsp;:
-#####**514-987-3000, poste 0886**.
+####**514-987-3000, poste 0886**.
