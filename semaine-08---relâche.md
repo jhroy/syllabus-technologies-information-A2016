@@ -20,7 +20,7 @@ Mais **ATTENTION**, votre installation dépendra du type d'ordinateur que vous a
 
 Sous **WINDOWS**:
 
-- Installez MySQL en suivant les instructions se trouvant [ici](https://dev.mysql.com/doc/refman/5.7/en/windows-installation.html) (in English, sorry). Assurez-vous de cocher l'option vous permettant d'installer également un utilitaire appelé **_MySQL Workbench_**, reconnaissable par l'icône ci-dessous (si l'utilitaire ne s'installe pas automatiquement, vous pouvez aller le chercher à partir de [sa page de téléchargement](https://dev.mysql.com/downloads/workbench/)):
+- Installez MySQL en suivant les instructions se trouvant [ici](https://dev.mysql.com/doc/refman/5.7/en/windows-installation.html) (*en inglés, discúlpame...*). Assurez-vous de cocher l'option vous permettant d'installer également un utilitaire appelé **_MySQL Workbench_**, reconnaissable par l'icône ci-dessous (si l'utilitaire ne s'installe pas automatiquement, vous pouvez aller le chercher à partir de [sa page de téléchargement](https://dev.mysql.com/downloads/workbench/)):
 
 ![](/assets/MySQLwb.png)
 
@@ -38,4 +38,4 @@ Je vous demande de procéder à ces installations au préalable, car les activit
 
 -----
 
-######Retour au [calendrier](/calendrier.md)
+#####Retour au [calendrier](/calendrier.md)
