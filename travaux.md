@@ -15,7 +15,7 @@ Envoyez-moi votre capture d'écran avant 23h59, le 30 octobre 2016.
 
 ##Script python
 
-Vous devrez rédiger un script python qui moissonne des données d'un site de votre choix ou qui se connecte à un API de votre choix. Il faut, bien sûr, que le site ou l'API soient différents de ceux qu'on a vus en classe. Votre script doit:
+Vous devrez rédiger un script python qui moissonne des données d'un site de votre choix ou qui se connecte à un API de votre choix. Il faut, bien sûr, que le site ou l'API soient différents de ceux qu'on a vus en classe. Votre script doit&nbsp;:
 
 - Contenir suffisamment de commentaires pour que je comprenne ce qu'il fait
 
@@ -27,13 +27,13 @@ Vous devez déposer votre script **(fichier .py)** dans votre compte Github. Plu
 
 ##Projet final
 
-Pour votre projet final, vous avez deux options. Vous pouvez faire:
+Pour votre projet final, vous avez deux options. Vous pouvez faire&nbsp;:
 
 - un **reportage** ou
 - un **outil**
 
 Si vous choisissez l'**option reportage**, vous pouvez le faire sur un **sujet** de votre choix (conditonnel à mon approbation). Vous avez aussi le choix de la **forme** de ce reportage: il peut s'agir d'un article, d'un reportage radio, d'un reportage télé ou d'un reportage web.<br>
-Dans la production de ce reportage, vous devrez utiliser au moins deux des trois grandes compétences qu'on a apprises au cours de la session:
+Dans la production de ce reportage, vous devrez utiliser au moins deux des trois grandes compétences qu'on a apprises au cours de la session&nbsp;:
 
 - Programmation
 - Gestion et/ou traitement d'une base de données avec SQL
@@ -43,18 +43,18 @@ Si vous choisissez l'**option outil**, vous avez aussi une grande latitude. Un o
 
 ## *Making-of*
 
-Votre travail final doit être accompagné d'un texte **(en format PDF)** d'entre 3&nbsp;000 et 6&nbsp;000 caractères décrivant votre démarche:
+Votre travail final doit être accompagné d'un texte **(en format PDF)** comptant entre 3&nbsp;000 et 6&nbsp;000 caractères et décrivant votre démarche&nbsp;:
 
 - Pourquoi ce sujet?
 - Quelles technologies avez-vous utilisées?
 - Pourquoi les avoir choisies?
 - Comment vous ont-elles servi?
-- Quels problèmes avez-vous éprouvés (s'il y a lieu)
+- Quels problèmes avez-vous éprouvés (s'il y a lieu).
 
-Ce texte devra être accompagné de:
+Ce texte devra être accompagné de&nbsp;:
 
 - Tous les scripts **(fichiers .py ou .rb ou .js)** que vous avez écrits et/ou
-- Un fichier «&nbsp;dump&nbsp;» **(format .sql)** de toutes les bases de données que vous avez utilisées
+- Un fichier «&nbsp;dump&nbsp;» **(format .sql)** de toutes les bases de données que vous avez utilisées.
 
 Vous m'envoyez tout cela par courriel avant le début du dernier cours (14h00, le 14 décembre 2016).
 
@@ -66,6 +66,6 @@ Vous m'envoyez tout cela par courriel avant le début du dernier cours (14h00, l
 | Abonnement à Cloud9 | 5 |
 | Abonnement à Github | 5 |
 | Installation de MySQL | 5 |
-| Script python| 25 |
-| Projet final| 40 |
-| *Making-of*| 20 |
+| Script python | 25 |
+| Projet final | 40 |
+| *Making-of* | 20 |
