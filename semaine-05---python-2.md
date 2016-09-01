@@ -5,8 +5,8 @@
 On poursuit notre apprentissage de python:
 
 - lecture et écriture de fichiers
-- interaction avec des API
+- interaction avec des [API](https://fr.wikipedia.org/wiki/Interface_de_programmation)
 
 -----
 
-######Retour au [calendrier](/calendrier.md)
+#####Retour au [calendrier](/calendrier.md)
