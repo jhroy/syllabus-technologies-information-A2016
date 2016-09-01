@@ -10,7 +10,7 @@ J'ai déjà donné des éléments de journalisme informatique dans un cours appe
 
 Reste que les deux tiers du contenu de ce cours sont donnés pour la première fois cette session-ci. Je vais pousser les apprentissages assez loin. Qui plus est, on va commencer par ce qu'il y a de plus difficile.
 
-L'avantage, c'est qu'au fur et à mesure qu'on va avancer dans le cours, la matière devrait progressivement devenir moins compliquée. Vous aurez en quelque sorte été «initiés» dans la première moitié de la session.
+L'avantage, c'est qu'au fur et à mesure qu'on va avancer dans le cours, la matière devrait progressivement devenir moins compliquée. Vous aurez en quelque sorte été «&nbsp;initiés&nbsp;» dans la première moitié de la session.
 
 J'ai confiance que vous pourrez y arriver. Dites-moi si le rythme est trop intense \(ou trop lent\). Je ne veux pas vous assomer. Je veux vous accompagner sur la route du journalisme informatique.
 
@@ -21,5 +21,3 @@ Je vais tâcher d'adapter mon rythme au vôtre. Dites-moi, aussi, ce que vous ê
 ---
 
 ###### Retour au [calendrier](/calendrier.md)
-
-doh
