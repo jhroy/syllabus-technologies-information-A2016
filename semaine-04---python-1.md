@@ -4,7 +4,7 @@
 
 ![](/assets/python.png "Le langage python")
 
-À partir de votre compte sur Cloud9, nous allons nous tremper les orteils dans le langage de programmation Python. On va commencer par les concepts de base:
+À partir de votre compte sur Cloud9, nous allons nous tremper les orteils dans le langage de programmation [Python](https://fr.wikipedia.org/wiki/Python_(langage)). On va commencer par les concepts de base:
 
 - variables et types de variables
 - listes et dictionnaires
@@ -12,4 +12,4 @@
 
 -----
 
-######Retour au [calendrier](/calendrier.md)
+#####Retour au [calendrier](/calendrier.md)
