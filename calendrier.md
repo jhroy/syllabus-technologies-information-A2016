@@ -7,14 +7,14 @@ Dans les prochaines pages, on verra comment le cours est structuré et comment l
 
 | # | Date | Contenu | Travail à faire ou à remettre (s'il y a lieu) |
 |---|---|---|---|
-| [01](/cours-01---syllabus.md)| 7 sept. | Syllabus | |
-| [02](/cours-02---histoire.md)| 14 sept. | Histoire du «&nbsp;journalisme quantitatif&nbsp;»| Abonnement à Cloud9 |
-| [03](/cours-02---unix.md)| 21 sept. | Intro à UNIX | |
-| [04](/cours-03---python-1.md)| 28 sept. | Python 1 | |
-| [05](/cours-05---python-2.md)| 5 oct. | Python 2| |
-| [06](/cours-06---python-3.md)| 12 oct. | Python 3| |
-| [07](/cours-07---python-4.md)| 19 oct. | Python 4| |
-| [*08*](/semaine-08---relâche.md)| *26 oct.* | *Semaine de relâche*| Abonnement à Github et<br>Installation de SQL |
+| [01](/semaine-01---syllabus.md)| 7 sept. | Syllabus | |
+| [02](/semaine-02---histoire.md)| 14 sept. | Histoire du «&nbsp;journalisme quantitatif&nbsp;»| Abonnement à Cloud9 |
+| [03](/semaine-02---unix.md)| 21 sept. | Intro à UNIX | |
+| [04](/semaine-03---python-1.md)| 28 sept. | Python 1 | |
+| [05](/semaine-05---python-2.md)| 5 oct. | Python 2| |
+| [06](/semaine-06---python-3.md)| 12 oct. | Python 3| |
+| [07](/semaine-07---python-4.md)| 19 oct. | Python 4| |
+| [*08*](/semaine-08---relâche.md)| *26 oct.* | *Semaine de relâche*| Script python,<br>abonnement à Github et<br>installation de SQL |
 | [09](/semaine-09---sql-1.md)| 2 nov. | SQL 1 | |
 | [10](/semaine-10---sql-2.md)| 9 nov. | SQL 2| |
 | [11](/semaine-11---visualisation-1.md)| 16 nov. | Visualisation 1| |
