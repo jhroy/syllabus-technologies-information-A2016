@@ -2,7 +2,7 @@
 ### 19 octobre 2016
 -----
 
-On termine par quelques exercices avec Python en vue du travail pratique à remettre après la traditionnelle semaine non-officielle de soi-disant relâche (description à la prochaine page).
+On termine par quelques exercices avec Python en vue du travail pratique à remettre après la traditionnelle semaine non-officielle de soi-disant relâche (description du travail à la prochaine page).
 
 ![](/assets/octochat.png)
 
@@ -16,4 +16,4 @@ Il y a autre chose que j'attends de vous durant cette semaine-là. Voir la page 
 
 -----
 
-######Retour au [calendrier](/calendrier.md)
+#####Retour au [calendrier](/calendrier.md)
