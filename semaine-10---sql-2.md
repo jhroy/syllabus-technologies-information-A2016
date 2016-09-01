@@ -11,8 +11,8 @@ Les principales commandes du langage SQL:
 Et si on a le temps:
 - `JOIN`
 
-Comment exporter, aussi, des données et des bases de données.
+Comment exporter, aussi, des données et des bases de données. *«&nbsp;Dumper&nbsp;»*, disent les spécialistes.
 
 -----
 
-######Retour au [calendrier](/calendrier.md)
+#####Retour au [calendrier](/calendrier.md)
