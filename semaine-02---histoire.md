@@ -16,5 +16,12 @@ On verra enfin les différentes étapes du journalisme informatique, étapes qui
 
 ---
 
+###Invité surprise!
+Cédric Sam, journaliste informatique québécois prochainement basé à New York, après un passage de quelques années à Hong Kong, viendra nous rendre visite! Il vous présentera ce qu'il fait et répondra à vos questions dans la dernière heure du cours.
+
+![](assets/CedricSam.png)
+
+---
+
 ##### Retour au [calendrier](/calendrier.md)
 
