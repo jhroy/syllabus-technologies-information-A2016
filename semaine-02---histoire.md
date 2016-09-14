@@ -24,4 +24,5 @@ Cédric Sam, journaliste informatique québécois prochainement basé à New Yor
 ---
 
 ##### Retour au [calendrier](/calendrier.md)
+:rocket:
 
