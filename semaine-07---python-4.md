@@ -6,7 +6,7 @@ On termine par quelques exercices avec Python en vue du travail pratique à reme
 
 ![](/assets/octochat.png)
 
-On va également apprendre les bases du système _**git**_. Je vais vous demander de vous abonner à [Github](http://github.com) et de faire un *«&nbsp;fork&nbsp;»* de mon répertoire **EDM5240**. Ce fork vaut à lui seul 5 autres magnifiques points!
+On va également apprendre les bases du système _**git**_. Je vais vous demander de vous abonner à [Github](http://github.com) et de faire un *«&nbsp;fork&nbsp;»* de mon répertoire **EDM5240-A2016**. Ce fork vaut à lui seul 5 autres magnifiques points!
 
 ![](/assets/fork.png)
 
