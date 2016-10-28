@@ -9,6 +9,8 @@ D'abord, rédigez un script python qui fait du moissonnage de données directeme
 
 **Tombée**: Avant 23h59, le 31 octobre 2016. Pour me remettre votre script, créez sur votre compte Github un *«&nbsp;repo&nbsp;»* appelé **EDM5240**. Je vais automatiquement *«&nbsp;forker&nbsp;»* votre *«&nbsp;repo&nbsp;»* à 23h59 le 31 octobre. Ce qu'il contiendra sera votre travail.
 
+Pour vous aider, j'ai créé [un petit tutoriel](https://medium.com/@jeanhuguesroy/comment-partager-votre-script-sur-github-9f7116d86034#.2tmiks68i).
+
 -----
 
 ###2
