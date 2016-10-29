@@ -2,7 +2,7 @@
 ### 26 octobre 2016
 -----
 
-Deux activités durant la relâche.
+Deux activités durant la soi-disant relâche.
 
 ###1
 D'abord, rédigez un script python qui fait du moissonnage de données directement sur un site web ou par le biais d'un API. Plus de détails dans la section [Travaux](/travaux.md).
